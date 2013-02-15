@@ -12,3 +12,6 @@ Tools:
 - HTML/CSS
 - Impress.js Lib: https://github.com/bartaz/impress.js/
 - Terminal
+
+Sources: 
+- Video Tutorial Github: http://learn.github.com/p/intro.html
