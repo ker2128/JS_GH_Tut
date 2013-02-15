@@ -9,5 +9,5 @@ Idea:
 
 Tools:
 - HTML/CSS
-- Impress.js Libarary 
+- Impress.js Lib: https://github.com/bartaz/impress.js/
 - Terminal
