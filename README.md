@@ -1,7 +1,8 @@
 JavaScript + Github Tutorial
 =========
 
-Data Visualization at QMSS Columbia
+- Data Visualization at QMSS Columbia
+- Presentation Link: http://shujianbu.github.com/JS_GH_Tut
 
 Idea: 
 - Introduction to JS and GitHub 
